@@ -15,17 +15,33 @@
       "password": "b070f0b0cc2264f6276b48b90e8e4b67a2605e55e82d588b881ec93f441471df",
       "role": "user",
       "maxNumbers": 3,
-      "numbers": [],
+      "numbers": [
+        "6285839134406@s.whatsapp.net"
+      ],
       "banned": false,
       "banReason": null,
       "expiredAt": null,
-      "loginCount": 0,
-      "lastLogin": null,
-      "lastDevice": null,
-      "session": null
+      "loginCount": 1,
+      "lastLogin": "2026-03-17T02:42:30.534Z",
+      "lastDevice": "a0b31654-8395-4f25-bf76-bf626863a661",
+      "session": {
+        "token": "5b1f785e824f04f374f2e08b6474a691a620adc3ed0372b3",
+        "createdAt": 1773715350534,
+        "expiresAt": 1773744150534
+      },
+      "lastPlatform": "linux"
     }
   ],
-  "logs": [],
+  "logs": [
+    {
+      "username": "jayy",
+      "bot_number": "6285839134406@s.whatsapp.net",
+      "login_time": "2026-03-17T02:42:31.465Z",
+      "device": "a0b31654-8395-4f25-bf76-bf626863a661",
+      "platform": "linux",
+      "arch": "x64"
+    }
+  ],
   "settings": {
     "maxNumbersDefault": 3,
     "allowRegister": true
