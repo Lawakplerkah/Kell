@@ -15,6 +15,21 @@
       "lastPlatform": null,
       "session": null,
       "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "username": "Kanemi",
+      "password": "adc9c0ec9df083b088d5761456ec3ae0dd510d88502cb269e20c54cca72902e9",
+      "role": "admin",
+      "maxNumbers": 10,
+      "numbers": [],
+      "banned": false,
+      "banReason": null,
+      "expiredAt": 1776312166206,
+      "loginCount": 0,
+      "lastLogin": null,
+      "lastDevice": null,
+      "session": null,
+      "createdAt": "2026-03-17T04:02:46.207Z"
     }
   ],
   "logs": [],
