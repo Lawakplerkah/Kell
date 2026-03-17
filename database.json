@@ -1,4 +1,3 @@
-
 {
   "users": [
     {
@@ -10,6 +9,20 @@
       "banned": false,
       "banReason": null,
       "expiredAt": "PERMANENT"
+    },
+    {
+      "username": "jayy",
+      "password": "b070f0b0cc2264f6276b48b90e8e4b67a2605e55e82d588b881ec93f441471df",
+      "role": "user",
+      "maxNumbers": 3,
+      "numbers": [],
+      "banned": false,
+      "banReason": null,
+      "expiredAt": null,
+      "loginCount": 0,
+      "lastLogin": null,
+      "lastDevice": null,
+      "session": null
     }
   ],
   "logs": [],
