@@ -1,10 +1,20 @@
+kamu
 {
   "users": [
     {
-      "username": "reza",
-      "password": "123456",
-      "numbers": []
+      "username": "admin",
+      "password": "hash_sha256",
+      "role": "admin",
+      "maxNumbers": 3,
+      "numbers": [],
+      "banned": false,
+      "banReason": null,
+      "expiredAt": "PERMANENT"
     }
   ],
-  "logs": []
+  "logs": [],
+  "settings": {
+    "maxNumbersDefault": 3,
+    "allowRegister": true
+  }
 }
