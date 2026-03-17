@@ -1,12 +1,25 @@
 {
- "users": [
-  {
-   "username": "admin",
-   "password": "HASH_PASSWORD",
-   "role": "owner",
-   "numbers": [],
-   "session": {}
+  "users": [
+    {
+      "username": "SuryaDev",
+      "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "role": "owner",
+      "expiredAt": "PERMANENT",
+      "maxNumbers": 10,
+      "numbers": [],
+      "banned": false,
+      "banReason": null,
+      "loginCount": 0,
+      "lastLogin": null,
+      "lastDevice": null,
+      "lastPlatform": null,
+      "session": null,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    }
+  ],
+  "logs": [],
+  "settings": {
+    "maxNumbersDefault": 3,
+    "allowRegister": true
   }
- ],
- "logs": []
 }
