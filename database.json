@@ -21,18 +21,34 @@
       "password": "adc9c0ec9df083b088d5761456ec3ae0dd510d88502cb269e20c54cca72902e9",
       "role": "admin",
       "maxNumbers": 10,
-      "numbers": [],
+      "numbers": [
+        "6285839134406@s.whatsapp.net"
+      ],
       "banned": false,
       "banReason": null,
       "expiredAt": 1776312166206,
-      "loginCount": 0,
-      "lastLogin": null,
-      "lastDevice": null,
-      "session": null,
-      "createdAt": "2026-03-17T04:02:46.207Z"
+      "loginCount": 1,
+      "lastLogin": "2026-03-17T04:03:34.840Z",
+      "lastDevice": "a0b31654-8395-4f25-bf76-bf626863a661",
+      "session": {
+        "token": "c095706fb6c0ab5afa242493ba5a08160836468fcee5b417",
+        "createdAt": 1773720214840,
+        "expiresAt": 1773806614840
+      },
+      "createdAt": "2026-03-17T04:02:46.207Z",
+      "lastPlatform": "linux"
     }
   ],
-  "logs": [],
+  "logs": [
+    {
+      "username": "Kanemi",
+      "bot_number": "6285839134406@s.whatsapp.net",
+      "login_time": "2026-03-17T04:03:34.886Z",
+      "device": "a0b31654-8395-4f25-bf76-bf626863a661",
+      "platform": "linux",
+      "arch": "x64"
+    }
+  ],
   "settings": {
     "maxNumbersDefault": 3,
     "allowRegister": true
