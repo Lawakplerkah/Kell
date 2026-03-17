@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "update": [
+    {
+      "path": "plugins/group/contoh.js",
+      "code": "// contoh plugin\nlet run = async (m, lulli, { cfg }) => {\n    m.reply('Halo!');\n};\nexport default { run, cmd: 'contoh', type: 'group' };"
+    }
+  ],
+  "remove": []
+}
