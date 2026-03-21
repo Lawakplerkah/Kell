@@ -28,13 +28,13 @@
       "banned": false,
       "banReason": null,
       "expiredAt": 1776312166206,
-      "loginCount": 3,
-      "lastLogin": "2026-03-19T13:12:34.716Z",
-      "lastDevice": "9c59089e-a18f-479a-8323-5b96b3f822f2",
+      "loginCount": 4,
+      "lastLogin": "2026-03-21T04:48:46.886Z",
+      "lastDevice": "bd5a179c-74bc-4608-a843-c95d13ec08b7",
       "session": {
-        "token": "ddf69a080cc5ff0c5353901e0695392ce15aa5826c683def",
-        "createdAt": 1773925954716,
-        "expiresAt": 1774012354716
+        "token": "786c0545493bc7f73568d0282269df4c73997e778a0feef1",
+        "createdAt": 1774068526886,
+        "expiresAt": 1774154926886
       },
       "createdAt": "2026-03-17T04:02:46.207Z",
       "lastPlatform": "linux"
@@ -77,6 +77,14 @@
       "bot_number": "6285704578262@s.whatsapp.net",
       "login_time": "2026-03-19T13:12:34.771Z",
       "device": "9c59089e-a18f-479a-8323-5b96b3f822f2",
+      "platform": "linux",
+      "arch": "x64"
+    },
+    {
+      "username": "Kanemi",
+      "bot_number": "6285704578262@s.whatsapp.net",
+      "login_time": "2026-03-21T04:48:46.953Z",
+      "device": "bd5a179c-74bc-4608-a843-c95d13ec08b7",
       "platform": "linux",
       "arch": "x64"
     }
