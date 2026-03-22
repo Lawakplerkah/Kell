@@ -45,15 +45,22 @@
       "password": "173aac924bd2bc71e54f78122b2d52c302bf00726c25ce4b77ee8fab215395de",
       "role": "admin",
       "maxNumbers": 10,
-      "numbers": [],
+      "numbers": [
+        "6283191348966@s.whatsapp.net"
+      ],
       "banned": false,
       "banReason": null,
       "expiredAt": "PERMANENT",
-      "loginCount": 0,
-      "lastLogin": null,
-      "lastDevice": null,
-      "session": null,
-      "createdAt": "2026-03-18T04:55:08.493Z"
+      "loginCount": 1,
+      "lastLogin": "2026-03-22T02:52:26.022Z",
+      "lastDevice": "fa71cab8-b0e2-4b1c-a9fc-c2cb8e23471a",
+      "session": {
+        "token": "050445ccae2f3cb001f2b476cbfcaae93553dce95480b01b",
+        "createdAt": 1774147946022,
+        "expiresAt": 1774234346022
+      },
+      "createdAt": "2026-03-18T04:55:08.493Z",
+      "lastPlatform": "linux"
     }
   ],
   "logs": [
@@ -94,6 +101,14 @@
       "bot_number": "6285891254594@s.whatsapp.net",
       "login_time": "2026-03-21T05:03:14.116Z",
       "device": "272c1561-1df1-4c3c-b74d-95200f929495",
+      "platform": "linux",
+      "arch": "x64"
+    },
+    {
+      "username": "REZAAA",
+      "bot_number": "6283191348966@s.whatsapp.net",
+      "login_time": "2026-03-22T02:52:26.068Z",
+      "device": "fa71cab8-b0e2-4b1c-a9fc-c2cb8e23471a",
       "platform": "linux",
       "arch": "x64"
     }
